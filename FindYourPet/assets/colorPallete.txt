@@ -1,0 +1,14 @@
+main colors gradient: 
+#4A285E
+#773C65
+
+light color gradient:
+#D64F6D
+#703768
+
+complementar color: 
+#F5C58C
+
+stylish white:
+#eee
+
