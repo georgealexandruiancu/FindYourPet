@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import Slider from './../components/Slider.js';
 import LinearGradient from 'react-native-linear-gradient';
-import SideMenu from './../components/SideMenu';
+
 export default class HomePage extends Component {
     constructor() {
         super();
@@ -28,7 +28,6 @@ export default class HomePage extends Component {
                     flexGrow: 1,
                     justifyContent: 'space-between'
                 }}>
-                <SideMenu></SideMenu>
                 <LinearGradient colors={['#4A285E', '#773C65']} style={styles.linearGradient}>
                     <Slider></Slider>
                 </LinearGradient>
